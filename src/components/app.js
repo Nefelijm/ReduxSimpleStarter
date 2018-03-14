@@ -6,9 +6,9 @@ import Hobys from './Hobys';
 
 const App = () => (
   <div>
-  <Header/>
-  <Main/>
-  <Hobys/> 
+    <Header/>
+    <Main/>
+    <Hobys/> 
   </div>
 )
 

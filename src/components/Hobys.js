@@ -2,12 +2,13 @@ import React from 'react';
 
 
 const Hobys = () => (
-  <div>
-    <p>natacion</p>
-    <p>futbol</p>    
-    <p>basquet</p>    
-    <p>cantar</p>   
-    
+  <div>    
+    <ul>
+      <li>Natacion</li>
+      <li>Futbol</li>
+      <li>Basquet</li>
+      <li>Declamar</li>
+    </ul>
   </div>
 )
 
