@@ -1,7 +1,15 @@
 import React from 'react';
+import Header from './Header';
+import Main from './Main';
+import Hobys from './Hobys';
+
 
 const App = () => (
-  <div>React and redux are cool</div>
+  <div>
+  <Header/>
+  <Main/>
+  <Hobys/> 
+  </div>
 )
 
 export default App
